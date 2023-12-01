@@ -6,6 +6,8 @@
         {
             Printer printer = new Printer();
             printer.PrintWelcome();
+            //gibberish comment
+
         }
     }
 }
